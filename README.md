@@ -5,6 +5,7 @@ DEV BHOOMI INSTITUTE OF TECHNOLOGY (DBIT), DEHRADUN
 Department of Computer Science and Engineering
 Project Synopsis
 1.	Name / Title of the Project
+
       Emergency Location Tracker
 2.	Statement about the Problem
       Emergency location tracker is an Android application that is designed keeping in view the security of individuals stuck at some remote/distant place where internet connectivity is feeble and sending locations is not possible.
@@ -14,6 +15,7 @@ With the Advent of modern technology and Android being at the reach of everyone 
 3.	Why is the particular topic chosen?
       Our friend once got stuck with such an unfavorable situation as mentioned above, her scooty broke down, she was helpless and was thinking of ways to get out of it, she had a feature phone and was unable to send her location to her known ones due to poor cellular reception. It was a terrible experience for her not being able to communicate her location details to others just so that others could locate her.
 Later upon knowing about this incident we thought of coming up with an Android app which will enable people to send location coordinates and eliminate such problems.
+
 4.	Objective and scope of the project
      The main idea of creation of this project is to let people avail the option of sending location coordinates to other people such that in emergency situations people will have an alternative way of connecting others in case they are stranded at remote locations.
 
@@ -32,6 +34,7 @@ When the location is not retrievable because of the poor network connectivity th
 6.	Future Update
 In the later version of this project improvisations can be done with respect to the basic functionalities like voice recognisation.
 In panic situations it is generally found that people tend to go hopeless and don’t have the basic instinct of reaching out for help like pressing power buttons multiple times to invoke SOS service. In such circumstances high tone of voice with keywords like HELP, LISTEN, BACHAO, SHOUTING etc. can be taken as inputs to trigger alarm and send location even with poor internet connectivity. 
+
 7.	Hardware & Software to be used
       Hardware requirements:
 Any smartphone with android4.0 or above.
@@ -41,6 +44,7 @@ Android Studio
      
 8.	Testing Technologies used
 Android app emulator, BlueStack
+
 9.	What contribution would the project make?
      This project can majorly contribute in helping of people stuck in remote area where internet is feeble and no help is present.
     
